@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import React, { useState } from 'react';
 import { GlobalStyle } from 'components/Globalstyle.js';
 import { Layout } from './Layout.js';
 import { FeedbackOptions } from 'components/FeedbackOptions/FeedbackOptions.jsx';
